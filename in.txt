@@ -1,0 +1,470 @@
+1
+5131
+1405
+3
+200910
+Robert Collier
+1805
+5
+201610
+David McKenney
+2404
+9
+200020
+Christine Laurendeau
+1405
+11
+200810
+Lou Nel
+2404
+6
+201310
+Robert Collier
+2404
+11
+201530
+David McKenney
+2404
+6
+201930
+Pat Morin
+0
+1
+2531
+1406
+4
+200120
+Lou Nel
+1406
+5
+200130
+Robert Collier
+2404
+11
+200230
+Lou Nel
+2402
+10
+201720
+Robert Collier
+2404
+8
+201110
+Robert Collier
+1805
+3
+201910
+Christine Laurendeau
+0
+1
+6492
+2406
+1
+201430
+Pat Morin
+2406
+4
+201220
+Lou Nel
+1405
+6
+200520
+David McKenney
+2406
+12
+201620
+Christine Laurendeau
+1805
+2
+200410
+Pat Morin
+0
+1
+7447
+2404
+4
+200120
+Robert Collier
+2406
+3
+201330
+Pat Morin
+1805
+1
+200430
+Lou Nel
+2402
+12
+200620
+Lou Nel
+2406
+3
+201310
+Lou Nel
+2404
+11
+201820
+Robert Collier
+2402
+3
+201720
+Robert Collier
+1406
+10
+200630
+Robert Collier
+2406
+1
+200320
+David McKenney
+0
+1
+7029
+2404
+4
+200420
+Christine Laurendeau
+1406
+6
+200420
+Christine Laurendeau
+1405
+8
+200020
+Robert Collier
+2406
+1
+200930
+Christine Laurendeau
+2406
+11
+201230
+Christine Laurendeau
+1805
+2
+200410
+Robert Collier
+2406
+8
+200020
+Lou Nel
+2404
+7
+200330
+Lou Nel
+2404
+4
+201810
+Pat Morin
+0
+1
+3259
+2402
+2
+201920
+Christine Laurendeau
+2402
+11
+201930
+Robert Collier
+2404
+8
+201830
+Lou Nel
+2404
+1
+200720
+Robert Collier
+2404
+7
+200330
+Robert Collier
+2406
+1
+200210
+Robert Collier
+0
+1
+3338
+2406
+6
+201230
+Robert Collier
+2404
+9
+200310
+Robert Collier
+1406
+1
+200210
+Robert Collier
+2402
+3
+200210
+Christine Laurendeau
+2404
+10
+200330
+Lou Nel
+0
+1
+2688
+2404
+5
+201910
+Pat Morin
+1405
+0
+200830
+David McKenney
+1805
+7
+201230
+Robert Collier
+1805
+6
+200730
+Lou Nel
+2404
+10
+201720
+David McKenney
+2404
+10
+201520
+Christine Laurendeau
+1406
+6
+200210
+Christine Laurendeau
+1805
+11
+200530
+Robert Collier
+1805
+6
+201030
+Christine Laurendeau
+2402
+11
+200920
+David McKenney
+0
+1
+9195
+2402
+6
+200930
+David McKenney
+2402
+11
+201210
+Lou Nel
+1406
+7
+201410
+Christine Laurendeau
+2402
+9
+201430
+Robert Collier
+1406
+1
+200510
+Christine Laurendeau
+0
+1
+5468
+1805
+7
+201330
+David McKenney
+1406
+7
+200320
+Pat Morin
+1805
+12
+201920
+Lou Nel
+1405
+9
+200130
+Pat Morin
+2406
+12
+200520
+Pat Morin
+2406
+4
+200230
+David McKenney
+0
+1
+4936
+2402
+0
+201510
+Christine Laurendeau
+2406
+9
+200010
+Pat Morin
+1405
+12
+201930
+David McKenney
+1805
+12
+201030
+David McKenney
+2404
+11
+200610
+Lou Nel
+2406
+9
+201720
+Christine Laurendeau
+1805
+2
+201630
+Lou Nel
+2404
+11
+200220
+Robert Collier
+0
+1
+5295
+1805
+3
+201510
+Robert Collier
+1405
+0
+200630
+Lou Nel
+2402
+3
+200310
+David McKenney
+2402
+8
+201610
+Pat Morin
+2406
+2
+200920
+Lou Nel
+2406
+0
+200420
+Pat Morin
+1805
+1
+200330
+Christine Laurendeau
+1406
+8
+201310
+Lou Nel
+0
+1
+5670
+1406
+7
+200320
+Robert Collier
+1405
+3
+200920
+Robert Collier
+1805
+10
+200830
+Pat Morin
+1805
+1
+201520
+Robert Collier
+2402
+0
+200220
+Robert Collier
+1406
+7
+200630
+Christine Laurendeau
+2404
+2
+201930
+Christine Laurendeau
+2404
+0
+201710
+Lou Nel
+1406
+3
+200110
+Robert Collier
+2404
+1
+200830
+David McKenney
+0
+1
+4443
+2402
+2
+200430
+Christine Laurendeau
+2402
+2
+200010
+Robert Collier
+1406
+1
+201420
+Christine Laurendeau
+2402
+4
+201110
+David McKenney
+1805
+5
+201220
+Lou Nel
+2402
+1
+200020
+Christine Laurendeau
+1405
+2
+200020
+Christine Laurendeau
+0
+1
+2211
+2406
+1
+200230
+Christine Laurendeau
+1406
+0
+201710
+Lou Nel
+1406
+0
+200930
+Pat Morin
+1405
+1
+201830
+Robert Collier
+2406
+0
+201520
+Lou Nel
+0
+0
