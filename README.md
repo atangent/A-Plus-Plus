@@ -1,4 +1,4 @@
-# Teachers, meet *OrderEZ.*
+# Teachers, meet *A + +.*
 
   This programs asks for user input to add students (by ID) and their courses (course code, grade, term, and instructor).
   It then prints all information upon exit in a neatly formatted manner.
